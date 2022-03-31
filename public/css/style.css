@@ -1,0 +1,18 @@
+.nav-link:hover{
+    transition: .3s;
+    opacity:1;
+    color: red;
+    visibility:visible;
+    font-size: 120%;
+    top:100%;
+    transform: rotateX(0deg);
+    }
+.nav-link{
+    color: green;
+}
+.custom-select, .input-group{
+    display: none;
+    content: none;
+}
+
+
